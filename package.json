@@ -1,0 +1,1 @@
+{"description":"Paper-money pump.fun trading bot for the make.fun Pump.fun Bot Sprint bounty","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"pumpfun-bot-sprint","private":true,"scripts":{"check":"node --check main.ts","start":"node main.ts"},"type":"module","version":"1.0.0"}
